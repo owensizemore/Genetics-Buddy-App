@@ -1,6 +1,6 @@
 # Genetics Buddy
 
-![Project Screenshot 1](https://raw.githubusercontent.com/owensizemore/Genetics-Buddy-App/master/screenshot2.PNG)![Project Screenshot 2](https://raw.githubusercontent.com/owensizemore/Genetics-Buddy-App/master/screenshot1.PNG)
+[Project Screenshot 2](https://raw.githubusercontent.com/owensizemore/Genetics-Buddy-App/master/screenshot1.PNG)
 
 ### Project Submitted to Peace Out Hacks (9/19/2021) and The Envirothon (9/19/2021)
 
