@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Genetics Buddy</string>
+    <string name="first_restriction_site">FIRST RESTRICTION SITE</string>
+    <string name="second_restriction_site">SECOND RESTRICTION SITE</string>
+    <string name="vector">VECTOR</string>
+    <string name="cut_site_sequence">Cut Site Sequence:</string>
+    <string name="heat_inactivation">Heat Inactivation:</string>
+    <string name="incubation_temperature">Incubation Temperature:</string>
+    <string name="diluent_compatibility">Diluent Compatibility:</string>
+    <string name="same_site">Cannot find the best buffer. Please make sure that the two restriction sites are different.</string>
+</resources>
